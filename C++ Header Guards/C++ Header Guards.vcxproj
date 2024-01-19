@@ -130,6 +130,7 @@
     <ClCompile Include="CppScratchPad.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Hero.h" />
     <ClInclude Include="Monster.h" />
     <ClInclude Include="Vector.h" />
   </ItemGroup>
