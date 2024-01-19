@@ -5,6 +5,42 @@
 using std::cout;
 using std::endl;
 
+// -------------------------- C++ Header Guards ------------------------------------------------------
+//ref link:https://www.youtube.com/watch?v=wRq8pxJEpfc&list=PLRwVmtr-pp05Bl0j6lwXd8tU754nUEB5P&index=2
+
+void main()
+{
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 // -------------------- C++ Header Files -------------------------------------------------------
 //ref link:https://www.youtube.com/watch?v=Wa6irrxFG88&list=PLRwVmtr-pp05Bl0j6lwXd8tU754nUEB5P
 
